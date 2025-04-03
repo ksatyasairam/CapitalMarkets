@@ -4,11 +4,31 @@ Capital markets derivatives are financial contracts whose value is derived from 
 ### Options: 
 These give the buyer the right, but not the obligation, to buy or sell an underlying asset at a specific price within a certain period. There are two types: American options (exercisable anytime before expiration) and European options (exercisable only at expiration).
 
+**Options**:<Br>
+**Definition:** An option gives the holder the right, but not the obligation, to buy or sell an asset at a predetermined price before or at the expiration date.<Br>
+**Types:** There are two main types of options: call options (buy) and put options (sell).<Br>
+**Flexibility:** The holder can choose whether to exercise the option.<Br>
+**Risk:** The maximum loss is limited to the premium paid for the option1.<Br>
+
 ### Futures: 
 Standardized contracts obligating the buyer to purchase, or the seller to sell, an asset at a predetermined future date and price. Futures are traded on exchanges and are highly liquid1.
 
+**Futures:**<Br>
+**Definition:** A futures contract is a standardized agreement to buy or sell an asset at a predetermined price at a specific date in the future.<Br>
+**Trading:** Futures are traded on exchanges and are standardized in terms of contract size and expiration dates.<Br>
+**Obligation:** Both parties are obligated to fulfill the contract terms.<Br>
+**Risk:** Futures involve daily settlement, which can lead to margin calls if the market moves against the position2.<Br>
+
 ### Forwards: 
 Similar to futures but traded over-the-counter (OTC), making them customizable to the needs of the parties involved. They are not standardized or regulated like futures1.
+
+**forwards**<Br>
+**Definition:** A forward contract is a customized agreement between two parties to buy or sell an asset at a predetermined price on a future date.<Br>
+**Customization:** Forwards are not standardized and are traded over-the-counter (OTC), allowing for more flexible terms.<Br>
+**Obligation:** Both parties are obligated to fulfill the contract terms.<Br>
+**Risk:** Forwards carry higher counterparty risk since they are not regulated by an exchange3.<Br>
+
+In summary, the main differences lie in their trading environments, flexibility, and risk management. Options provide more flexibility, while futures and forwards involve obligations to fulfill the contract terms.<Br>
 
 ### Swaps: 
 Contracts in which two parties exchange financial obligations, such as interest rate swaps where fixed interest payments are exchanged for floating-rate payments1.
