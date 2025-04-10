@@ -1,4 +1,33 @@
-# CapitalMarkets
+# Types of Markets.
+## Primary Market:
+**Purpose**: Where new securities are created and sold (or) issued for the first time.<Br>
+**Participants**: Companies, governments, and other entities issue new stocks and bonds to raise capital.<Br>
+**Example**: Initial Public Offerings (IPOs) where a company sells its shares to the public for the first time.<Br>
+**Transaction**: Directly between the issuer and investors.<Br>
+
+## Secondary Market:
+**Purpose**: Where previously issued securities are traded among investors.<Br>
+**Participants**: Investors buy and sell securities among themselves.<Br>
+**Example**: Stock exchanges like the New York Stock Exchange (NYSE) and Nasdaq.<Br>
+**Transaction**: Indirectly between investors, with prices fluctuating based on supply and demand.<Br>
+
+# Primary Market Transactions:
+
+**Initial Public Offering (IPO)**: When a company offers its shares to the public for the first time.<Br>
+**Private Placement**: Securities are sold directly to a small group of investors, rather than through a public offering.<Br>
+**Rights Issue**: Existing shareholders are given the right to purchase additional shares at a discounted price before the new shares are offered to the public.<Br>
+**Preferential Allotment**: Shares are issued to a select group of investors, often at a preferential price.
+These transactions help companies and governments raise capital directly from investors. 
+
+# Secondary Market Transactions:
+
+**Stock Trading**: Buying and selling shares of companies like Apple or Microsoft on stock exchanges such as the NYSE,NSE,SENSEX or Nasdaq.<Br>
+**Bond Trading**: Investors trade corporate or government bonds among themselves, often facilitated by investment banks.<Br>
+**Mutual Fund Transactions**: Buying and selling shares of mutual funds through brokers or directly on the secondary market.<Br>
+**Mortgage-Backed Securities**: Financial institutions buy and sell mortgage-backed securities, such as those issued by Fannie Mae.<Br>
+These transactions occur between investors, providing liquidity and enabling price discovery based on supply and demand.<Br>
+
+# CapitalMarkets derivates
 Capital markets derivatives are financial contracts whose value is derived from an underlying asset, such as stocks, bonds, commodities, currencies, interest rates, or market indexes. Here are the main types of derivatives:
 
 ### Options: 
@@ -13,7 +42,7 @@ These give the buyer the right, but not the obligation, to buy or sell an underl
 ### Futures: 
 Standardized contracts obligating the buyer to purchase, or the seller to sell, an asset at a predetermined future date and price. Futures are traded on exchanges and are highly liquid1.
 
-**Futures:**<Br>
+**Futures**:<Br>
 **Definition:** A futures contract is a standardized agreement to buy or sell an asset at a predetermined price at a specific date in the future.<Br>
 **Trading:** Futures are traded on exchanges and are standardized in terms of contract size and expiration dates.<Br>
 **Obligation:** Both parties are obligated to fulfill the contract terms.<Br>
@@ -22,7 +51,7 @@ Standardized contracts obligating the buyer to purchase, or the seller to sell, 
 ### Forwards: 
 Similar to futures but traded over-the-counter (OTC), making them customizable to the needs of the parties involved. They are not standardized or regulated like futures1.
 
-**forwards**<Br>
+**Forwards**<Br>
 **Definition:** A forward contract is a customized agreement between two parties to buy or sell an asset at a predetermined price on a future date.<Br>
 **Customization:** Forwards are not standardized and are traded over-the-counter (OTC), allowing for more flexible terms.<Br>
 **Obligation:** Both parties are obligated to fulfill the contract terms.<Br>
