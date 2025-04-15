@@ -1,4 +1,24 @@
-# Types of Markets.
+# Capital Markets Operations:
+  Capital market operations refer to the activities and transactions that take place in financial markets where long-term debt or equity-backed securities are bought and sold. These markets are crucial for raising capital for businesses, governments, and other entities. Here are some key components of capital market operations:
+
+**_Primary Market_:** This is where new securities are issued and sold for the first time. Companies and governments can raise funds by issuing stocks, bonds, or other financial instruments. The process includes underwriting, where investment banks help issuers sell their securities to investors.<Br>
+
+**_Secondary Market_:** Once securities are issued in the primary market, they can be traded among investors in the secondary market. This includes stock exchanges like the New York Stock Exchange (NYSE) or the London Stock Exchange (LSE). The secondary market provides liquidity, allowing investors to buy and sell securities easily.<Br>
+
+**_Stock Market_:** A component of the capital market where shares of publicly traded companies are bought and sold. It includes major exchanges and over-the-counter (OTC) markets.<Br>
+
+**_Bond Market_:** Another component where debt securities are traded. Bonds can be issued by corporations, municipalities, or governments. Investors buy bonds to receive periodic interest payments and the return of principal at maturity.<Br>
+
+**_Derivatives Market_:** This includes trading in financial instruments like futures, options, and swaps, which derive their value from underlying assets such as stocks, bonds, commodities, or currencies.<Br>
+
+**_Investment Banking_:** Firms that provide services such as underwriting, mergers and acquisitions, and advisory services to help entities raise capital and navigate complex financial transactions.<Br>
+
+**_Regulatory Bodies_:** Organizations like the Securities and Exchange Commission (SEC) in the U.S. or the Financial Conduct Authority (FCA) in the U.K. oversee capital market operations to ensure transparency, fairness, and investor protection.<Br>
+
+Capital markets play a vital role in the economy by facilitating the flow of funds from savers to borrowers, promoting investment, and supporting economic growth.<Br>
+
+
+# Types of Markets:
 ## Primary Market:
 **Purpose**: Where new securities are created and sold (or) issued for the first time.<Br>
 **Participants**: Companies, governments, and other entities issue new stocks and bonds to raise capital.<Br>
