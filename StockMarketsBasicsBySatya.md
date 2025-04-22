@@ -31,6 +31,7 @@ Regular job income through salary or business income<Br>
 - Special Dividend: Given at any time of the FY. This is usally higher then the normal Final or interim dividend.
 - Market Cap: CMP * No.Of Shares.
 - Share Cap: Face value * No.Of Shares.
+- Acceptance ratio of a buy back.
 
 
 
