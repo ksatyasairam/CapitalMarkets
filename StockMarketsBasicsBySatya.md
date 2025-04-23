@@ -19,23 +19,47 @@ Regular job income through salary or business income<Br>
 
 - **Face Value**: Face Value refers to the nominal or original value assigned to a financial instrument by its issuer. It is the value stated on the instrument itself, such as a bond, stock, or insurance policy.The face value is the initial value of a share, often set at a low amount (e.g., ₹10 per share). It is primarily used for accounting purposes and does not reflect the market price. FV can be as 5 or 2 or 1Rs.<Br>
 
-- **Dividend**: A dividend is a portion of a company's earnings distributed to its shareholders as a reward for their investment. Dividends are typically paid out in cash or additional shares and are decided by the company's board of directors.Calculation is w.r.t face value of the share.(Ex: 500% dividend on a face value of 10rs means 500%*10rs= 50Rs is the dividend) <Br>
-   - **Cash Dividend**: Paid directly to shareholders in cash.
-   - **Stock Dividend**: Issued as additional shares instead of cash.
-   - **Final Dividend**: Dividend given at the end of financial year(FY). Genarally declared after the fiscal year's accounts      are finalized
-   - **Interim Dividend**: Given in middle or any time of the FY. Genarally declared before the fiscal year's end.
-   - **Special Dividend**: A one-time payment due to extraordinary profits. Given at any time of the FY. This is usally 
+- **Dividend**: A dividend is a portion of a company's earnings distributed to its shareholders as a reward for their investment. Dividends are typically paid out in cash or additional shares and are decided by the company's board of directors.Calculation is w.r.t face value of the share.(Ex: 500% dividend on a face value of 10rs means 500%*10rs= 50Rs is the dividend).
+   - **_Cash Dividend_**: Paid directly to shareholders in cash.
+   - **_Stock Dividend_**: Issued as additional shares instead of cash.
+   - **_Final Dividend_**: Dividend given at the end of financial year(FY). Genarally declared after the fiscal year's       
+       accounts are finalized
+   - **_Interim Dividend_**: Given in middle or any time of the FY. Genarally declared before the fiscal year's end.
+   - **_Special Dividend_**: A one-time payment due to extraordinary profits. Given at any time of the FY. This is usally 
      higher then the normal Final or interim dividend.
+     
 - **Dividend Yield**: Represents the annual dividend as a percentage of the stock's current price, helping investors assess 
   the income potential of their investments.Formula for calculation of Dividend yield is (Dividend/CMP)*100.
-- **Ex-Dividend Date**: The date by which investors must own the stock to be eligible for the dividend.
-- Split:
-- Bonus: 
-- Buy Back:
-- Announcement Date: The day were the Split/Devidend/Bonus is announced by a company
-- Record Date: The day at which stocks should be present in your Demat account.
-- Ex-Dividend/Bonus/Split Date: The date
-- Pay Out Date: 
+  
+- **Ex-Dividend Date**: The date by which investors must own the stock to be eligible for the dividend. 
+
+- **Split**: A stock split is a corporate action where a company increases the number of its outstanding shares by reducing the face value of each share. This makes the stock more affordable for investors while keeping the company's overall market capitalization unchanged. 
+   - **_Forward Stock Split_**: The company increases the number of shares, reducing the price per share. Common ratios include 2:1, 3:1, or 5:1.
+       - **Example**: If you own 100 shares priced at ₹1,000 each, a 2:1 split will give you 200 shares priced at ₹500 each.
+   - **_Reverse Stock Split_**: The company reduces the number of shares, increasing the price per share. Common ratios include 1:2, 1:3, or 1:5.
+      - **Example**: If you own 100 shares priced at ₹100 each, a 1:2 reverse split will give you 50 shares priced at ₹200            each.
+        
+- **Bonus**: A bonus issue is when a company distributes additional shares to its existing shareholders at no extra cost, typically funded from its reserves. This increases the number of outstanding shares but does not change the company's market capitalization.
+
+- **Buy Back**: A buyback, also known as a share repurchase, is when a company buys its own shares from the market. This reduces the number of outstanding shares, often increasing the value of the remaining shares and improving financial ratios like Earnings Per Share (EPS). Buy back methods below.
+   - **_Open Market_**: Shares are repurchased directly from the stock market at prevailing prices.
+   - **_Tender Offer_**: The company offers to buy shares at a premium price within a specific timeframe.
+   - **_Dutch Auction_**: Shareholders bid the price at which they are willing to sell, and the company selects the lowest bids.
+
+- **Announcement Date**: The day were the Split/Dividend/Bonus is announced by a company.
+  
+- **Record Date**: The Record Date is the cutoff date set by a company to determine which shareholders are eligible to receive dividends, bonus shares, stock splits, or other corporate benefits. If an investor owns shares on this date, they qualify for the announced corporate action.The day by which stocks should be present in your Demat account for corporate action eligibility.
+  
+- **Ex-Dividend/Bonus**: The Ex-Dividend/Bonus date is the cutoff point for investors to qualify for a company's upcoming dividend payment. If you purchase shares on or after this date, you will not receive the dividend/bonus. To be eligible, you must buy the stock before the Ex-Dividend/Bonus date.
+
+- **EX-Split Date:** The Ex-Split Date is the date when a stock starts trading at its adjusted price after a stock split. Investors who buy shares on or after this date will not receive the split-adjusted shares; only those who owned the stock before this date are eligible.
+
+- **Record Date vs. Ex-Split Date**: The record date determines which shareholders qualify for the split, while the ex-split date is when the price adjustment takes effect.
+
+- **Pay Out Date**: The Payout Date in financial markets refers to the date when funds or securities are transferred to investors after a trade settlement or corporate action.
+    - **_Stock Market Settlement_**: After a trade is executed, the payout date is when buyers receive shares and sellers receive funds. In India, this typically follows a T+1 settlement cycle.
+    - **_Dividend Payments_**: The date when eligible shareholders receive their dividend payments.
+    - **_Bond Interest Payments_**: The scheduled date when bondholders receive interest payouts.
 
 - Market Cap: CMP * No.Of Shares.
 - Share Cap: Face value * No.Of Shares.
