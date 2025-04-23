@@ -1,4 +1,4 @@
-# This page contain the stock markets basiscs & learnings by satya
+# This page contain the stock markets basiscs & learnings of satya
 
 ## Active Icome: 
 Regular job income through salary or business income<Br>
@@ -61,9 +61,15 @@ Regular job income through salary or business income<Br>
     - **_Dividend Payments_**: The date when eligible shareholders receive their dividend payments.
     - **_Bond Interest Payments_**: The scheduled date when bondholders receive interest payouts.
 
-- Market Cap: CMP * No.Of Shares.
-- Share Cap: Face value * No.Of Shares.
-- Acceptance ratio of a buy back.
+- **Market Cap**: Market Capitalization (Market Cap) represents the total value of a company's outstanding shares, helping investors gauge its size and financial standing. Formula for calculation of market cap is _**Market cap = Current Market price(CMP) * No.Of Share**._
+   - **Large-Cap (₹20,000 Cr+ in India)** – Established companies with stable earnings.
+   - **Mid-Cap (₹5,000 Cr - ₹20,000 Cr)** – Growing firms with moderate risk.
+   - **Small-Cap (Below ₹5,000 Cr)** – High-growth potential but higher volatility.
+     
+- **Share Cap**: Share Capital (Share Cap) refers to the total amount of money a company raises by issuing shares to investors. It represents the equity funding of a company and is a key component of its financial structure. Formula for calculation of share cap is _**share cap = Face value * No.Of Share.**_
+  
+- **Acceptance ratio of a buy back**: The acceptance ratio in a share buyback refers to the proportion of shares that a company accepts for repurchase compared to the total shares tendered by shareholders. It is a critical metric in buybacks, especially when the buyback size is limited, and more shares are tendered than the company intends to repurchase.
+
 
 
 
