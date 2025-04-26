@@ -61,14 +61,37 @@ Regular job income through salary or business income<Br>
     - **_Dividend Payments_**: The date when eligible shareholders receive their dividend payments.
     - **_Bond Interest Payments_**: The scheduled date when bondholders receive interest payouts.
 
-- **Market Cap**: Market Capitalization (Market Cap) represents the total value of a company's outstanding shares, helping investors gauge its size and financial standing. Formula for calculation of market cap is _**Market cap = Current Market price(CMP) * No.Of Share**._
+- **Market Cap**: Market Capitalization (Market Cap) represents the total value of a company's outstanding shares, helping investors gauge its size and financial standing.<Br>
+   Formula for calculation of market cap is _**Market cap = Current Market price(CMP) * No.Of Share**._
    - **Large-Cap (₹20,000 Cr+ in India)** – Established companies with stable earnings.
    - **Mid-Cap (₹5,000 Cr - ₹20,000 Cr)** – Growing firms with moderate risk.
    - **Small-Cap (Below ₹5,000 Cr)** – High-growth potential but higher volatility.
      
-- **Share Cap**: Share Capital (Share Cap) refers to the total amount of money a company raises by issuing shares to investors. It represents the equity funding of a company and is a key component of its financial structure. Formula for calculation of share cap is _**share cap = Face value * No.Of Share.**_
+- **Share Cap**: Share Capital (Share Cap) refers to the total amount of money a company raises by issuing shares to investors. It represents the equity funding of a company and is a key component of its financial structure.<Br>
+   Formula for calculation of share cap is _**share cap = Face value * No.Of Share.**_<Br>
   
-- **Acceptance ratio of a buy back**: The acceptance ratio in a share buyback refers to the proportion of shares that a company accepts for repurchase compared to the total shares tendered by shareholders. It is a critical metric in buybacks, especially when the buyback size is limited, and more shares are tendered than the company intends to repurchase.
+- **Acceptance ratio of a buy back**: The acceptance ratio in a share buyback refers to the proportion of shares that a company accepts for repurchase compared to the total shares tendered by shareholders. It is a critical metric in buybacks, especially when the buyback size is limited, and more shares are tendered than the company intends to repurchase.<Br>
+
+- **Earnings per share(EPS)**: Earnings Per Share (EPS) is a financial metric that measures a company's profitability on a per-share basis. It indicates how much profit is allocated to each outstanding share of common stock. It is mainly used to calculate the P/E ratio.<Br>
+
+  Formula for **_EPS (or) E/S = Total Profit(After tax's & dividend payouts)/ No.Of Shares outstanding._**<Br>
+
+- **P/E Ratio**: The Price-to-Earnings (P/E) Ratio is a key valuation metric that compares a company's stock price to its earnings per share (EPS). It helps investors assess whether a stock is overvalued, undervalued, or fairly priced.
+
+  Formula for **_P/E Ratio = CMP(Current Market Price of share)/ Earnings per share(EPS)_**<Br>
+  - **P/E Ratio is High P/E Ratio (>20) - Company is overvalued.**<Br>
+  - **P/E Ratio is Low P/E Ratio (<10) - company is undervalued.**<Br>
+  - **P/E Ratio is Moderate P/E Ratio (10–20) - Reflects stable companies.**<Br>
+  - **Note:** Compare the P/E ratio of a company with the Avg P/E Ratio of that Industy or compare the P/E ratio of two companys which fall in same business line or same sector.<Br>
+
+- **Book Value**: Book Value represents the net worth of a company based on its balance sheet. It is calculated as the difference between the company's total assets and total liabilities. Essentially, it reflects the value shareholders would theoretically receive if the company were liquidated.<Br>
+
+  Formula for **_{Book Value per share} = {{Total Assets} - {Total Liabilities}}/{Total Number of Outstanding Shares}_**<Br>
+  
+- **Price To Book value**: The Price-to-Book (P/B) Ratio is a financial metric that compares a company's market value to its book value, helping investors assess whether a stock is undervalued or overvalued.<Br>
+
+   Formula for **_{{P/B Ratio} = {Market Price per Share}/{Book Value per Share}}_**
+
 
 
 
