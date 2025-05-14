@@ -51,3 +51,16 @@ The trade life cycle involves several key participants, each playing a crucial r
 
 These participants work together to make every trade seamless and secure
 
+# Keys For Trade matching
+
+**Trade matching** in a clearing house involves several key data components to ensure accurate and efficient processing of transactions. Here are some of the essential keys used for matching trades:<Br>
+
+**_- Trade ID_:** A unique identifier for each trade within a given clearing business date, exchange, and firm ID.<Br>
+**_- Trade Date_**: The date on which the trade was executed.<Br>
+**_- Settlement Date:_** The date on which the trade is scheduled to be settled.<Br>
+**_- Price_:** The agreed-upon price at which the trade was executed.<Br>
+**_- Quantity_:** The number of units traded.<Br>
+**_- Counterparty Identifiers:_** Unique identifiers for the parties involved in the trade.<Br>
+**_- Instrument Identifiers:_** Identifiers like ISINs (International Securities Identification Numbers) or CUSIPs (Committee on Uniform Securities Identification Procedures) that uniquely identify the traded instruments.<Br>
+**_- Stock Ticker Symbol_:** The symbol representing the traded stock.<Br>
+These keys help ensure that all transaction details are accurately matched and reconciled before settlement, reducing the risk of errors and delays.<Br>
